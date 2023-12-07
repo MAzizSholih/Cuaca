@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cuaca</string>
+    <string name="gagal_memuat">Gagal untuk memuat</string>
+    <string name="coba_lagi">Coba lagi</string>
+    <string name="memuat">Memuat</string>
+    <string name="placeholder_success">Teks pengganti</string>
+    <string name="cuaca">Cuaca</string>
+</resources>
